@@ -6,7 +6,7 @@
 This is the official implementation of our paper **OffsetCrust: Variable-Radius Offset Approximation with Power Diagrams** published in IEEE Transactions on Visualization and Computer Graphics (TVCG), 2026.
 
 OffsetCrust is a novel framework that efficiently addresses the variable-radius offsetting problem by computing a power diagram.
-Please refer to [arXiv preprint](https://arxiv.org/abs/2507.10924) for more details.  
+Please refer to [our paper](https://arxiv.org/abs/2507.10924) for more details.  
 
 ## Getting Started 
 

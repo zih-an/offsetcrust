@@ -3,10 +3,10 @@
 ![teaser](./assets/teaser.png)
 
 ## Introduction
-This is the official implementation of our paper "OffsetCrust: Variable-Radius Offset Approximation with Power Diagrams."
+This is the official implementation of our paper **OffsetCrust: Variable-Radius Offset Approximation with Power Diagrams** published in IEEE Transactions on Visualization and Computer Graphics (TVCG), 2026.
 
 OffsetCrust is a novel framework that efficiently addresses the variable-radius offsetting problem by computing a power diagram.
-Please refer to [our paper](https://arxiv.org/abs/2507.10924) for more details.
+Please refer to [arXiv preprint](https://arxiv.org/abs/2507.10924) for more details.  
 
 ## Getting Started 
 
@@ -199,3 +199,20 @@ All of our output `.obj` files can be opened with [MeshLab](https://www.meshlab.
 2. Select **Fill -> Shading -> Face** and **Fill -> Back-Face -> Double**.
 
 <img src="./assets/vewinmeshlab.png" width="400" />
+
+## Citation 
+
+```bibtex
+@article{zhao2026offsetcrust,
+  title={OffsetCrust: Variable-Radius Offset Approximation with Power Diagrams},
+  author={Zhao, Zihan and Wang, Pengfei and Xu, Minfeng and Chen, Shuangmin and Xin, Shiqing and Tu, Changhe and Wang, Wenping},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  volume={32},
+  number={9},
+  pages={7729--7741},
+  year={2026},
+  month={Sep},
+  doi={10.1109/TVCG.2026.3701358},
+  publisher={IEEE}
+}
+```
